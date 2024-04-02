@@ -1,0 +1,6 @@
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:53:35,ETHUSD,Spot,1,3489.1,3489.4,1,3471.92900096,1,3471.92900096,0.3000000000001819
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:53:35,ETHUSD,Spot,10,3488.2,3490.3,1,3471.92900096,1,3471.92900096,2.100000000000364
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:53:35,ETHUSD,Spot,25,3486.7,3491.8,1,3471.92900096,1,3471.92900096,5.100000000000364

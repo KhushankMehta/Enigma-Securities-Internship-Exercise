@@ -1,0 +1,6 @@
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 17:21:08,BTCUSD,Spot,1,69810.9,69812.1,1,2647.69819543,1,2647.69819543,1.2000000000116415
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 17:21:08,BTCUSD,Spot,10,69810.0,69813.0,1,2647.69819543,1,2647.69819543,3.0
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 17:21:08,BTCUSD,Spot,25,69808.5,69814.5,1,2647.69819543,1,2647.69819543,6.0

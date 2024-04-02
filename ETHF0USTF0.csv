@@ -1,0 +1,6 @@
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:54:25,ETHF0USTF0,Perpetual,1,3490.0,3490.2999999999997,1,7389.81201783,1,7389.81201783,0.29999999999972715
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:54:25,ETHF0USTF0,Perpetual,10,3489.1,3491.2,1,7389.81201783,1,7389.81201783,2.099999999999909
+timestamp,instrument,type,level_quantity,avg_bid,avg_ask,num_trades,total_volume,num_quotes,avg_volume,"avg_spread [1, 10, 25]"
+2024-04-01 16:54:25,ETHF0USTF0,Perpetual,25,3487.6,3492.7,1,7389.81201783,1,7389.81201783,5.099999999999909
