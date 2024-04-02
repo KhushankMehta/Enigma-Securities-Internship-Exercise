@@ -31,6 +31,7 @@ This Python script extracts real-time ticker data from the Bitfinex cryptocurren
 
 
 
+
 Libraries used for this project:
 
 import websocket
@@ -41,10 +42,12 @@ import time
 
 import csv
 
+
 Installation of Libraries:
 
 Install the required dependencies 
 eg: pip install websocket-client
+
 
 Ticker Information:
 
@@ -55,6 +58,7 @@ Ticker Information:
 -BTCF0USTF0: PERPETUAL
 
 -ETHF0USTF0: PERPETUAL
+
 
 Code Details: 
 1) Defining Websocket endpoint and Symbols:
