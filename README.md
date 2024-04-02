@@ -53,7 +53,7 @@ Ticker Information:
 
 -BTCUSD: SPOT
 
--UTHUSD: SPOT
+-ETHUSD: SPOT
 
 -BTCF0USTF0: PERPETUAL
 
